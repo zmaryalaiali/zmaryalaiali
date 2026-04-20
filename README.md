@@ -1,32 +1,72 @@
-<h1 align="center">Hi 👋, I'm Zmaryalai Ali</h1>
-<h3 align="center">An Android developer from Afghanistan</h3>
+# Hi 👋 I'm Zmaryalai Ali
 
-- 🔭 I’m currently working on [imagetopdg](https://github.com/zmaryalaiali/imagetopdf)
+💻 Android Developer passionate about building modern mobile applications with Kotlin and Jetpack.
 
-- 🌱 I’m currently learning **Augmented Reality**
+---
 
-- 💬 Ask me about **Android**
+## 🚀 About Me
 
-- 📫 How to reach me **zmaryalaiali@gmail.com**
+* 📱 Android developer focused on modern Android development
+* 🧑‍💻 Experienced with **Kotlin, Jetpack Compose, Kotlin Multiplatform (KMP), and Compose Multiplatform (CMP)**
+* 🤖 Working with **Machine Learning on mobile using TensorFlow and ML Kit**
+* 🔌 Working with **REST APIs, WebSockets, and networking**
+* 🔔 Experienced in **Firebase Cloud Messaging (FCM) notifications**
+* 🔐 Interested in **Mobile Security and secure Android app development**
+* 🧠 Interested in **clean architecture and scalable mobile apps**
 
+---
 
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+**Languages**
 
-<h3 align="left">Languages and Tools:</h3>
- </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/><p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
- </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+* Kotlin
+* Java
+* Python
 
-### Socials
+**Android**
 
-<p align="left"> <a href="https://www.github.com/zmaryalaiali" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+* Jetpack Compose
+* Android SDK
+* ViewModel
+* Coroutines
+* Flow
+* WorkManager
 
+**Machine Learning**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zmaryalaiali&show_icons=true&locale=en&layout=compact" alt="zmaryalaiali" /></p>
+* TensorFlow
+* ML Kit
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zmaryalaiali&show_icons=true&locale=en" alt="zmaryalaiali" /></p>
+**Networking**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zmaryalaiali&" alt="zmaryalaiali" /></p>
+* OkHttp
+* Retrofit
+* WebSockets
 
+**Tools**
+
+* Android Studio
+* Git
+* Gradle
+
+---
+
+## 📚 Currently Learning
+*  Machine Learnign
+*  Advance Python
+*  Android performance optimization
+*  Mobile Security
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zmaryalaitooti\&show_icons=true\&theme=tokyonight)
+
+## 🌍 Connect With Me
+
+🐙 Main GitHub: https://github.com/zmaryalaiali                
+🐙 Second GitHub: https://github.com/zmaryalaitooti
+
+⭐ Thanks for visiting my profile!
